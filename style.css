@@ -10,11 +10,11 @@
   body{
     background:#909090;
     background-image: radial-gradient(#ffffff, #909090);
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    min-height:100vh;
-    overflow:hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
     cursor: move;
   }
   
